@@ -1,0 +1,10 @@
+type: code
+custom_name: The first digit of a two-digit number
+files:
+- name: main.py
+  visible: true
+  text: '# put your python code here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6467#comment
+status: Solved
+record: -1

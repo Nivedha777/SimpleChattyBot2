@@ -1,0 +1,30 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6810#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 11. Runtime error
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    8.77
+    11.25
+
+    Correct output:
+    20.02
+
+    Your code output:
+
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 2, in <module>
+        float_2 - float(input())
+    NameError: name 'float_2' is not defined
+  time: Tue, 19 Oct 2021 00:39:58 UTC
+record: -1

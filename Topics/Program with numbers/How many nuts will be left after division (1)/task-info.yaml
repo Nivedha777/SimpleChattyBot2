@@ -1,0 +1,31 @@
+type: code
+custom_name: How many nuts will be left after division
+files:
+- name: main.py
+  visible: true
+  text: '# put your python code here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6466#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 6. Runtime error
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    3
+    14
+    Correct output:
+    2
+
+    Your code output:
+    143
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 3, in <module>
+        print(K % N)
+    TypeError: not all arguments converted during string formatting
+  time: Wed, 15 Dec 2021 01:08:56 UTC
+record: -1
